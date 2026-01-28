@@ -62,7 +62,7 @@ export default function CivilCasesPage() {
             Expert representation in civil disputes including property matters, contract disputes, and commercial litigation. I provide strategic legal solutions for complex civil cases.
           </p>
 
-          <div className="relative h-96 rounded-lg overflow-hidden border-4 border-accent w-full md:w-2/3">
+          <div className="relative  md:ml-36 h-96 rounded-lg overflow-hidden border-4 border-accent w-full md:w-2/3">
             <Image
               src="/criminal-law.jpg"
               alt="Civil law"
@@ -137,10 +137,10 @@ export default function CivilCasesPage() {
       </div>
 
       {/* CTA Section */}
-      <div className="bg-gradient-to-r from-accent to-secondary py-16 px-6">
-        <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-primary mb-6">Civil Dispute? Property Conflict?</h2>
-          <p className="text-xl text-primary/90 mb-8">
+      <div className="bg-gradient-to-r  from-accent to-secondary py-16 px-6">
+        <div className="max-w-4xl mx-auto   text-center">
+          <h2 className="text-4xl font-bold   text-white mb-6">Civil Dispute? Property Conflict?</h2>
+          <p className="text-xl text-white/90 mb-8">
             Resolve your civil matter efficiently with expert legal representation and strategic guidance.
           </p>
           <div className="flex gap-4 justify-center flex-col sm:flex-row">

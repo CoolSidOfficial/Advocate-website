@@ -62,7 +62,7 @@ export default function CriminalLawPage() {
             Aggressive defense representation for serious criminal charges. I provide strategic legal defense in murder cases, bail hearings, and appeals with a proven track record of favorable outcomes.
           </p>
 
-          <div className="relative h-96 rounded-lg overflow-hidden border-4 border-accent w-full md:w-2/3">
+          <div className="relative md:ml-36 h-96 rounded-lg overflow-hidden border-4 border-accent w-full md:w-2/3">
             <Image
               src="/criminal-law.jpg"
               alt="Criminal law"
@@ -139,8 +139,8 @@ export default function CriminalLawPage() {
       {/* CTA Section */}
       <div className="bg-gradient-to-r from-accent to-secondary py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-primary mb-6">Facing Criminal Charges?</h2>
-          <p className="text-xl text-primary/90 mb-8">
+          <h2 className="text-4xl font-bold text-white mb-6">Facing Criminal Charges?</h2>
+          <p className="text-xl text-white/90 mb-8">
             Time is critical. Get expert criminal defense representation immediately to protect your rights.
           </p>
           <div className="flex gap-4 justify-center flex-col sm:flex-row">
@@ -159,10 +159,10 @@ export default function CriminalLawPage() {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <p className="text-muted-foreground">© 2024 Adv Palash Kumar Jain. All rights reserved.</p>
           <div className="flex gap-4">
-            <a href="#" className="text-muted-foreground hover:text-accent transition">
+            <a href="https://www.linkedin.com/in/adv-palash-kumar-jain-13157814b/" className="text-muted-foreground hover:text-accent transition">
               LinkedIn
             </a>
-            <a href="#" className="text-muted-foreground hover:text-accent transition">
+            <a href="https://twitter.com/AdvPalashJain" className="text-muted-foreground hover:text-accent transition">
               Twitter
             </a>
             <a href="/" className="text-muted-foreground hover:text-accent transition">

@@ -62,7 +62,7 @@ export default function AccidentClaimsPage() {
             Comprehensive legal representation for accident victims seeking compensation. From motor vehicle accidents to insurance disputes, I fight to maximize your claim recovery.
           </p>
 
-          <div className="relative h-96 rounded-lg overflow-hidden border-4 border-accent w-full md:w-2/3">
+          <div className="relative md:ml-36 h-96 rounded-lg overflow-hidden border-4 border-accent w-full md:w-2/3">
             <Image
               src="/accident-law.jpg"
               alt="Accident claims"
@@ -139,8 +139,8 @@ export default function AccidentClaimsPage() {
       {/* CTA Section */}
       <div className="bg-gradient-to-r from-accent to-secondary py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-primary mb-6">Injured in an Accident?</h2>
-          <p className="text-xl text-primary/90 mb-8">
+          <h2 className="text-4xl font-bold text-white mb-6">Injured in an Accident?</h2>
+          <p className="text-xl text-white/90 mb-8">
             Get maximum compensation for your injuries. Schedule your free consultation today.
           </p>
           <div className="flex gap-4 justify-center flex-col sm:flex-row">

@@ -155,12 +155,7 @@ export default function LawyerPortfolio() {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <h3 className="text-accent font-bold text-lg">Adv Palash Kumar Jain</h3>
           <div className="flex gap-8">
-            <a href="#about" className="text-foreground hover:text-accent transition">
-              About
-            </a>
-            <a href="#practice" className="text-foreground hover:text-accent transition">
-              Case Details
-            </a>
+           
             <a href="/contact" className="bg-black text-primary px-6 py-2 font-semibold hover:opacity-90 transition">
               Contact
             </a>
@@ -242,6 +237,7 @@ export default function LawyerPortfolio() {
 
       {/* Practice Areas with Images */}
       <div className="bg-background py-20 px-6">
+        <div id="cases"></div>
         <div className="max-w-7xl mx-auto">
           <h2 className="text-5xl font-bold text-foreground mb-16 text-center">
             Areas of <span className="text-accent">Practice</span>

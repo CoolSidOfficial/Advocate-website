@@ -62,7 +62,7 @@ export default function FamilyCourtPage() {
             Expert representation in family law matters including divorce, maintenance, custody disputes, and domestic violence cases. With 7 years of experience, I provide compassionate yet aggressive advocacy for your family's future.
           </p>
 
-          <div className="relative h-96 rounded-lg overflow-hidden border-4 border-accent w-full md:w-2/3">
+          <div className="relative md:ml-36 h-96 rounded-lg overflow-hidden border-4 border-accent w-full md:w-2/3">
             <Image
               src="/family-law.jpg"
               alt="Family law"
@@ -139,8 +139,8 @@ export default function FamilyCourtPage() {
       {/* CTA Section */}
       <div className="bg-gradient-to-r from-accent to-secondary py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-primary mb-6">Need Legal Help with Family Matters?</h2>
-          <p className="text-xl text-primary/90 mb-8">
+          <h2 className="text-4xl font-bold text-white mb-6">Need Legal Help with Family Matters?</h2>
+          <p className="text-xl text-white/90 mb-8">
             Contact me for a free initial consultation. I'm here to help you navigate family law matters with compassion and expertise.
           </p>
           <div className="flex gap-4 justify-center flex-col sm:flex-row">

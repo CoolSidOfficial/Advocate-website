@@ -62,7 +62,7 @@ export default function FinancialLawPage() {
             Expert representation in financial disputes, cheque bounce cases, consumer protection, and contract enforcement. I help protect your financial interests with aggressive legal action.
           </p>
 
-          <div className="relative h-96 rounded-lg overflow-hidden border-4 border-accent w-full md:w-2/3">
+          <div className="relative  h-96 md:ml-36 rounded-lg overflow-hidden border-4 border-accent w-full md:w-2/3">
             <Image
               src="/consumer-law.jpg"
               alt="Financial law"
@@ -139,8 +139,8 @@ export default function FinancialLawPage() {
       {/* CTA Section */}
       <div className="bg-gradient-to-r from-accent to-secondary py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-primary mb-6">Financial Dispute? Cheque Bounced?</h2>
-          <p className="text-xl text-primary/90 mb-8">
+          <h2 className="text-4xl font-bold text-white mb-6">Financial Dispute? Cheque Bounced?</h2>
+          <p className="text-xl text-white/90 mb-8">
             Don't lose your money. Get immediate legal action to protect and recover your financial interests.
           </p>
           <div className="flex gap-4 justify-center flex-col sm:flex-row">
@@ -159,10 +159,10 @@ export default function FinancialLawPage() {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <p className="text-muted-foreground">© 2024 Adv Palash Kumar Jain. All rights reserved.</p>
           <div className="flex gap-4">
-            <a href="#" className="text-muted-foreground hover:text-accent transition">
+            <a href="https://www.linkedin.com/in/adv-palash-kumar-jain-13157814b/" className="text-muted-foreground hover:text-accent transition">
               LinkedIn
             </a>
-            <a href="#" className="text-muted-foreground hover:text-accent transition">
+            <a href="https://twitter.com/AdvPalashJain" className="text-muted-foreground hover:text-accent transition">
               Twitter
             </a>
             <a href="/" className="text-muted-foreground hover:text-accent transition">
