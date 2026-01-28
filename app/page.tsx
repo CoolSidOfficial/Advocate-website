@@ -329,13 +329,13 @@ export default function LawyerPortfolio() {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <p className="text-muted-foreground">© 2024 Adv Palash Kumar Jain. All rights reserved.</p>
           <div className="flex gap-4">
-            <a href="#" className="text-muted-foreground hover:text-accent transition">
+            <a href="https://www.linkedin.com/in/adv-palash-kumar-jain-13157814b/" className="text-muted-foreground hover:text-accent transition">
               LinkedIn
             </a>
-            <a href="#" className="text-muted-foreground hover:text-accent transition">
+            <a href="https://x.com/advpalashjain" className="text-muted-foreground hover:text-accent transition">
               Twitter
             </a>
-            <a href="#" className="text-muted-foreground hover:text-accent transition">
+            <a href="mailto:advpalashjain@gmail.com" className="text-muted-foreground hover:text-accent transition">
               Contact
             </a>
           </div>
