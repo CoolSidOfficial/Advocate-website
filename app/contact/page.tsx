@@ -63,6 +63,10 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold text-foreground mb-2">Office Address</h3>
+                    <p className="text-muted-foreground"> Civil Court Arera Hills Bhopal, Madhya Pradesh, India</p>
+                  </div>
+                      <div>
+                    <h3 className="text-xl font-bold text-foreground mb-2">Home  Address</h3>
                     <p className="text-muted-foreground">H.N-11 Lakherapura, Bhopal, Madhya Pradesh 462001, India</p>
                   </div>
                 </div>
@@ -74,7 +78,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold text-foreground mb-2">Email Address</h3>
-                    <p className="text-muted-foreground">advpalashjain@gmail.com</p>
+                    <p className="text-muted-foreground">jainadvpalash@gmail.com</p>
                   </div>
                 </div>
 

@@ -196,7 +196,7 @@ export default function LawyerPortfolio() {
             {/* Quick Info */}
             <div className="mt-12 space-y-3 text-muted-foreground text-sm">
               <p>Adv Palash Kumar Jain • Bhopal, India</p>
-              <p>advpalashjain@gmail.com</p>
+              <p>jainadvpalash@gmail.com </p>
             </div>
           </div>
 
@@ -297,13 +297,17 @@ export default function LawyerPortfolio() {
                   <p className="text-accent font-semibold mb-2">Address</p>
                   <p className="text-foreground">H.N-11 Lakherapura, Bhopal</p>
                 </div>
+                 <div>
+                  <p className="text-accent font-semibold mb-2"> Office Address</p>
+                  <p className="text-foreground"> Civil court arera hills Bhopal</p>
+                </div>
                 <div>
                   <p className="text-accent font-semibold mb-2">Phone</p>
                   <p className="text-foreground">+91 9713803772</p>
                 </div>
                 <div>
                   <p className="text-accent font-semibold mb-2">Email</p>
-                  <p className="text-foreground">advpalashjain@gmail.com</p>
+                  <p className="text-foreground">jainadvpalash@gmail.com</p>
                 </div>
                 <div>
                   <p className="text-accent font-semibold mb-2">Hours</p>
@@ -331,12 +335,15 @@ export default function LawyerPortfolio() {
             <a href="https://x.com/advpalashjain" className="text-muted-foreground hover:text-accent transition">
               Twitter
             </a>
-            <a href="mailto:advpalashjain@gmail.com" className="text-muted-foreground hover:text-accent transition">
+            <a href="mailto:jainadvpalash@gmail.com" className="text-muted-foreground hover:text-accent transition">
               Contact
             </a>
           </div>
+
         </div>
       </footer>
+          <div className="bg-red-800 font-semi-bold text-white text-center py-4  bottom-0 w-full"> Website developed by <Link href="https://in.linkedin.com/in/siddhant-jain-coolsidofficial"> <b className="underline">Siddhant Jain</b></Link></div>
+
     </div>
   )
 }
